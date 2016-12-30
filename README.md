@@ -1,5 +1,5 @@
-# 3Project
-Group 3's project for CSE 360 Fall 2015 Yao
+# Medical Information System using Ruby on Rails
+CSE 360 - Software Engineering
 
 [Objectives]:
 
@@ -25,15 +25,3 @@ Schultz, Alexander
 Shaeffer, Jacob
 Shiao, Jau-Yuan
 Villela, Daniel
-
-Github usernames of members:
-Mark - 
-Bishnu - 
-Connor - cgolobic
-Dayton - dayton-harris
-Nhashon - 
-Balaji - balaji2591
-Alexander - alexschultzAZ
-Jacob - 
-Jau-Yuan - justin1534
-Daniel - 
